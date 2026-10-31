@@ -1,8 +1,3 @@
-<p align="center">
-  <!-- 📸 ADD: logo (images/logo.png) -->
-  <img src="images/logo.png" alt="Project logo" width="240"/>
-</p>
-
 <h1 align="center">E-commerce Sales & Customer Analytics</h1>
 <h3 align="center">From a data audit that corrected reported profit by 23% to the discount, customer, delivery and product decisions that follow from it</h3>
 
@@ -16,8 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="#video-walkthrough">🎥 Video</a> ·
-  <a href="docs/Ecommerce_Sales_Customer_Analytics.pdf">📄 Report PDF</a> ·
+  <a href="Ecommerce_Sales_Customer_Analytics.pdf">📄 Report PDF</a> ·
   <a href="dashboard/Ecommerce_Sales_Customer_Analytics.pbix">📊 .pbix file</a> ·
   <a href="https://github.com/<your-username>">GitHub</a> ·
   <a href="https://www.linkedin.com/in/<your-profile>">LinkedIn</a>
