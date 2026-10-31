@@ -828,22 +828,12 @@ Target attainment % = DIVIDE ( [True profit], [Profit target] )
 ## 14. Repository Structure
 
 ```
-├── dashboard/
-│   └── Ecommerce_Sales_Customer_Analytics.pbix
-├── data/
-│   ├── ecommerce_sales_customer_analytics_150k.csv   # orders (confirm the name Power Query expects)
-│   ├── Order_Items.csv
-│   ├── Customer_Dim.csv
-│   ├── Products_Dim.csv
-│   └── dataset_statistics.csv
-├── docs/
-│   ├── Ecommerce_Sales_Customer_Analytics.pdf        # full report export
-│   └── theme.json                                    # Power BI theme
+├── dashboard.pbix
+├── Ecommerce_Sales_Customer_Analytics.pdf        # full report export
 ├── images/                                           # screenshots used in this README
 └── README.md
 ```
 
-> The orders CSV is about 49 MB. If GitHub warns about file size, use Git LFS (`git lfs track "*.csv"`) or link to the data source instead.
 
 <details>
 <summary><b>Screenshot checklist (filenames for the images/ folder)</b></summary>
@@ -852,9 +842,6 @@ Capture each at 100% zoom (View → Fit to page, then Win+Shift+S), 1920 px wide
 
 | File | What to capture |
 |---|---|
-| `logo.png` | Your logo or project mark |
-| `00_hero.png` | Collage of 3 or 4 best pages |
-| `video_thumbnail.png` | A frame from your video with a play icon |
 | `power_query_steps.png` | Power Query editor with the query list and applied steps |
 | `model_diagram.png` | Model view with all relationships visible |
 | `audit_tax_by_country.png` | Data Trust bar chart, reported vs true margin |
@@ -872,7 +859,6 @@ Capture each at 100% zoom (View → Fit to page, then Win+Shift+S), 1920 px wide
 | `09c_margin_extremes.png` | Product Portfolio: margin extremes |
 | `10_revenue_leakage.png` | Revenue Leakage with the waterfall in order |
 | `11_geography_channels.png` | Geography and Channels |
-| `11b_rls_view_as.png` (optional) | "View as" dialog with the USA role |
 </details>
 
 ---
@@ -933,9 +919,7 @@ With **no slicers selected**:
 
 ## 16. About Me
 
-**<Your name>** · Aspiring Data / BI Analyst
-📧 <your-email> · 💼 [LinkedIn](https://www.linkedin.com/in/<your-profile>) · 🐙 [GitHub](https://github.com/<your-username>)
+**Aaditya Pyaram** · Aspiring Data Analyst
+📧 aadityapyaram@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/aaditya-pyaram-a91b1431a) · 🐙 [GitHub](https://github.com/AadityaPyaram)
 
 *I built this project to practise the full analytics workflow, from auditing data to turning findings into decisions. Feedback is welcome.*
-
-<p align="center"><sub>⭐ If you found this project useful, consider starring the repo.</sub></p>
