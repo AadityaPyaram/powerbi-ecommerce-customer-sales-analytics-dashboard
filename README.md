@@ -1,5 +1,6 @@
 <h1 align="center">E-commerce Sales & Customer Analytics</h1>
-<h3 align="center">From a data audit that corrected reported profit by 23% to the discount, customer, delivery and product decisions that follow from it</h3>
+<h3 align="center">End-to-End Power BI Project    |  ETL  |  Star-schema  |  DAX  |  14-page Dashboard   
+<h4 align="center">From a data audit that corrected reported profit by 23% to the discount, customer, delivery and product decisions that follow from it</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-14%20pages-F2C811?logo=powerbi&logoColor=black" alt="Power BI"/>
