@@ -488,7 +488,7 @@ Product pages use order lines, so they are filtered to **reconciled, completed o
 **Category map and concentration:** a scatter of revenue share vs true margin by category, a **Pareto** of the top 50 products with a cumulative-profit line, a product-count card, and headline cards. **Electronics** is the largest category (**21.7%** of revenue) at only **25.4%** margin against 36.0% overall; Jewelry (13.3%, 32.9%) and Home Appliances (13.1%, 33.7%) follow. Profit is spread widely: the **50 most profitable of 1,175 products earn only about 16%**.
 
 <!-- 📸 ADD: images/09b_product_rankings.png -->
-<p align="center"><img src="images/09b_product_rankings.png" alt="Product Portfolio: rankings" width="95%"/></p>
+<p align="center"><img src="images/09b_product_rakings.png" alt="Product Portfolio: rankings" width="95%"/></p>
 
 **Rankings:** a top-10 products table, a category and subcategory matrix, revenue share by category, and a brand chart with revenue (columns) and margin (line). The five biggest brands all earn only about 25% to 29% margin.
 
