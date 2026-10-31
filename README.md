@@ -12,15 +12,11 @@
 
 <p align="center">
   <a href="Ecommerce_Sales_Customer_Analytics.pdf">📄 Report PDF</a> ·
-  <a href="dashboard/Ecommerce_Sales_Customer_Analytics.pbix">📊 .pbix file</a> ·
-  <a href="https://github.com/<your-username>">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/<your-profile>">LinkedIn</a>
+  <a href="dashboard.pbix">📊 .pbix file</a> ·
+  <a href="www.linkedin.com/in/aaditya-pyaram-a91b1431a">LinkedIn</a>
 </p>
 
 <!-- 📸 ADD: HERO IMAGE. A clean collage of 3 or 4 of your best pages (Data Trust, Executive Overview, Discount Effectiveness, Cohorts). About 1600 x 900. Save as images/00_hero.png -->
-<p align="center">
-  <img src="images/00_hero.png" alt="Dashboard overview: collage of four report pages" width="95%"/>
-</p>
 
 ---
 
@@ -58,11 +54,8 @@
 | **Deliverables** | 14-page interactive report, data model with 84 measures, row-level security, written findings and recommendations |
 | **Standout features** | Tax-adjusted profit logic, order-to-line reconciliation, cohort retention, RFM segmentation, discount what-if simulator, revenue-leakage waterfall |
 
-<a name="video-walkthrough"></a>
-**Video walkthrough**
 
-<!-- 🎥 ADD: link to your 2-minute walkthrough (unlisted YouTube or Loom). Replace the URL below. -->
-[![Watch the walkthrough](images/video_thumbnail.png)](https://youtu.be/<your-video-id>)
+
 
 ---
 
@@ -125,7 +118,7 @@ This project analyses five years (2021 to 2025) of an e-commerce business, 138,1
 
 ## 5. Dataset Overview
 
-**Source:** synthetic e-commerce dataset provided as five CSV files. <!-- ✏️ EDIT: add where the data came from (link) -->
+**Source:**  <a href="https://www.kaggle.com/datasets/datascikhan/e-commerce-sales-and-customer-analytics">Kaggle</a> synthetic e-commerce dataset provided as five CSV files. <!-- ✏️ EDIT: add where the data came from (link) -->
 
 | File (as loaded in the model) | Grain | Rows | Columns | Key columns |
 |---|---|---|---|---|
