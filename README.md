@@ -229,6 +229,12 @@ It also created a **false pattern by country**: reported margin ranged from 37.9
 
 ## 7. ETL & Data Preparation
 
+**Extract** - <a href="https://www.kaggle.com/datasets/datascikhan/e-commerce-sales-and-customer-analytics">Kaggle</a>
+
+**Transform** - Power Query
+
+**Load** - Power BI Desktop
+
 All preparation is done in **Power Query (M)**, with a parameterised data folder so the project runs on any machine.
 
 ### 7.1 Query architecture
