@@ -14,7 +14,7 @@
 <p align="center">
   <a href="Ecommerce_Sales_Customer_Analytics.pdf">📄 Report PDF</a> ·
   <a href="dashboard.pbix">📊 .pbix file</a> ·
-  <a href="www.linkedin.com/in/aaditya-pyaram-a91b1431a">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/aaditya-pyaram-a91b1431a">LinkedIn</a>
 </p>
 
 <!-- 📸 ADD: HERO IMAGE. A clean collage of 3 or 4 of your best pages (Data Trust, Executive Overview, Discount Effectiveness, Cohorts). About 1600 x 900. Save as images/00_hero.png -->
@@ -839,32 +839,6 @@ Target attainment % = DIVIDE ( [True profit], [Profit target] )
 ```
 
 
-<details>
-<summary><b>Screenshot checklist (filenames for the images/ folder)</b></summary>
-
-Capture each at 100% zoom (View → Fit to page, then Win+Shift+S), 1920 px wide or larger.
-
-| File | What to capture |
-|---|---|
-| `power_query_steps.png` | Power Query editor with the query list and applied steps |
-| `model_diagram.png` | Model view with all relationships visible |
-| `audit_tax_by_country.png` | Data Trust bar chart, reported vs true margin |
-| `00_hero.png` | Collage of 4 pages |
-| `01_data_trust.png` | Data Trust page |
-| `02_executive_overview.png` | Executive Overview with Year = 2025 selected |
-| `03_seasonality.png` | Seasonality and Promotions |
-| `04_discount_effectiveness.png` | Discount Effectiveness with the cap slicer at 30 |
-| `05_cohorts.png` | Acquisition and Cohorts |
-| `06_rfm.png` | Customer Value (RFM) |
-| `06b_customer_detail_drillthrough.png` | Customer Detail drillthrough page |
-| `07_segment_economics.png` | Segment Economics |
-| `08_delivery.png` | Delivery and Experience |
-| `09a_product_portfolio.png` | Product Portfolio |
-| `09b_product_rankings.png` | Product Portfolio: Rankings |
-| `09c_margin_extremes.png` | Product Portfolio: margin extremes |
-| `10_revenue_leakage.png` | Revenue Leakage with the waterfall in order |
-| `11_geography_channels.png` | Geography and Channels |
-</details>
 
 ---
 
@@ -875,10 +849,10 @@ Capture each at 100% zoom (View → Fit to page, then Win+Shift+S), 1920 px wide
 1. Install **[Power BI Desktop](https://powerbi.microsoft.com/desktop/)** (free, Windows).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/AadityaPyaram/powerbi-ecommerce-customer-sales-analytics-dashboard.git
    ```
-3. Open `dashboard/Ecommerce_Sales_Customer_Analytics.pbix`.
-4. **Point it at the data:** Home → Transform data → **Edit parameters**, set `DataFolder` to the full path of the `data/` folder **including the trailing backslash** (for example `C:\projects\ecommerce\data\`).
+3. Open `dashboard.pbix`.
+4. **Point it at the data:** Home → Transform data → **Edit parameters**, download the CSVs from Kaggle into a folder, then set DataFolder to the full path **including the trailing backslash** (for example `C:\projects\ecommerce\data\`).
 5. Click **Refresh**.
 6. *Optional:* test security with Modeling → **View as** → *Country Manager - USA*.
 
