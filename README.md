@@ -18,6 +18,9 @@
 </p>
 
 <!-- 📸 ADD: HERO IMAGE. A clean collage of 3 or 4 of your best pages (Data Trust, Executive Overview, Discount Effectiveness, Cohorts). About 1600 x 900. Save as images/00_hero.png -->
+<p align="center">
+  <img src="images/00_hero.png" alt="Dashboard overview: collage of four report pages" width="95%"/>
+</p>
 
 ---
 
@@ -846,6 +849,7 @@ Capture each at 100% zoom (View → Fit to page, then Win+Shift+S), 1920 px wide
 | `power_query_steps.png` | Power Query editor with the query list and applied steps |
 | `model_diagram.png` | Model view with all relationships visible |
 | `audit_tax_by_country.png` | Data Trust bar chart, reported vs true margin |
+| `00_hero.png` | Collage of 4 pages |
 | `01_data_trust.png` | Data Trust page |
 | `02_executive_overview.png` | Executive Overview with Year = 2025 selected |
 | `03_seasonality.png` | Seasonality and Promotions |
